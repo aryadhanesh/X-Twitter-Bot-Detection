@@ -79,9 +79,9 @@ def extract_int(text): #to extract integer only
 
 
 # Hardwired credentials
-USERNAME = "Koroth_arya"
-PASSWORD = "arya@123"
-EMAIL = "arya2004cool@gmail.com"  # Replace with your email
+USERNAME = "yourusername"
+PASSWORD = "password"
+EMAIL = " your"  # Replace with your email
 
 def login_to_x(driver):
     """Logs into X.com securely, handling email verification if prompted."""
